@@ -1,0 +1,257 @@
+.header{
+	background: #E2E2E2;
+}
+.container{
+	margin: 0 auto;
+	width: 1200px;
+}
+.container_header{
+	display: flex;
+	padding: 36px 0;
+	allign-items: center;
+}
+.nav_list{
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	width: 700px;
+}
+.nav_link{
+	color: #2C2C2C;
+
+font-family: Merriweather;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}
+.header_title{
+	color: #2C2C2C;
+font-family: Notable;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-right:auto ;
+margin-left: ;
+}
+.hero-block{
+	background-color: #E2E2E2;;
+}
+.hero-block_title{
+	color: #2C2C2C;
+font-family: Yeseva One;
+font-size: 72px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.hero-block_text{
+	color: #2C2C2C;
+
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 453px;
+}
+.hero-block_button{
+	background-color: #E2A300;
+	width: 224px;
+	height: 47px;
+	flex-shrink: 0;
+}
+.container_hero-block{
+	display: flex;
+	justify-content: space-between;
+	padding: 69px 64px 0;
+}
+.hero-block_img{
+	width: 632px;
+	height: 574px;
+}
+.skills_full{
+	display: flex;
+width: 356px;
+height: 10px;
+padding-right: 0px;
+align-items: center;
+flex-shrink: 0;
+background: #E2A300;
+}
+.skills_done{
+width: 287px;
+height: 10px;
+flex-shrink: 0;
+background: #2C2C2C;
+}
+.skills_list{
+	list-style: none;
+}
+.skills_full2{
+display: flex;
+width: 356px;
+height: 10px;
+padding-right: 0px;
+align-items: center;
+flex-shrink: 0;
+background: #E2A300;
+}
+.skills_done2{
+width: 287px;
+height: 10px;
+flex-shrink: 0;
+background: #2C2C2C;
+}
+.skills_done3{
+width: 287px;
+height: 10px;
+flex-shrink: 0;
+background: #2C2C2C;
+}
+.skills_full3{
+display: flex;
+width: 356px;
+height: 10px;
+padding-right: 0px;
+align-items: center;
+flex-shrink: 0;
+background: #E2A300;
+}
+.skills_name{
+color: #2C2C2C;
+font-family: Playfair Display SC;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.skills_name2{
+	color: #2C2C2C;
+font-family: Playfair Display SC;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.skills_name3{
+	color: #2C2C2C;
+font-family: Playfair Display SC;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.about_title{
+color: #2C2C2C;
+font-family: Forum;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
+.about{
+	background: #E2E2E2;
+	padding-top: 10px;
+}
+.about_content{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.skills_title{
+		color: #2C2C2C;
+font-family: Playfair Display SC;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.video_title{
+	display: flex;
+	justify-content: center;
+	color: #2C2C2C;
+font-family: Nico Moji;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.video_block{
+	display: flex;
+	align-items: center;
+	background-color: #E2E2E2;
+	margin-bottom: 100px;
+}
+.video{
+	border: 44px solid #2C2C2C;
+	border-radius: 29px;
+}
+.gallery_title{
+	color: #2C2C2C;
+font-family: Yeseva One;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+}
+.gallery_list{
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-between;
+}
+.gallery_item{
+	width: 33%;
+}
+.gallery_img{
+	width: 100%;
+}
+.gallery{
+	background: #E2E2E2;
+}
+.footer_list{
+	list-style: none;
+	display: flex;
+}
+.footer_item{
+margin-right: 30px;
+}
+.footer_img{
+	width: 50px;
+	height: 50px;
+	flex-shrink: 0;
+}
+.footer_title{
+	color: #2C2C2C;
+font-family: Caveat;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.footer_text{
+	color: #2C2C2C;
+font-family: Pacifico;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 164.063%; /* 26.25px */
+}
+.footer{
+	background-color: #E2E2E2;;
+}
+.container_footer{
+	display: flex;
+	justify-content: space-between;
+}
+.hero-block{
+	padding: 0px;
+}
+.gallery{
+	padding: 0px;
+}
